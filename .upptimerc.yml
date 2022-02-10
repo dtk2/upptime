@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: http://www.autosusados.cl/props-menu-footer/images/logo_agencia01.png
+  logoUrl: https://www.autosusados.cl/props-menu-footer/images/logo_agencia01.png
   name: Upptime
   introTitle: "**Agencia Destacados** uptime monitor"
   navbar:
