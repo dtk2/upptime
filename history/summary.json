@@ -22,18 +22,19 @@
     "url": "https://autotattersall.cl/",
     "icon": "https://favicons.githubusercontent.com/autotattersall.cl",
     "slug": "tattersall",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.05%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 1065,
-    "timeDay": 948,
+    "timeDay": 934,
     "timeWeek": 855,
     "timeMonth": 1032,
     "timeYear": 1065,
     "dailyMinutesDown": {
+      "2022-03-13": 0,
       "2022-03-12": 28
     }
   }
