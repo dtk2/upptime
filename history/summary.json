@@ -4,10 +4,10 @@
     "url": "http://www.autosusados.cl/",
     "icon": "https://favicons.githubusercontent.com/www.autosusados.cl",
     "slug": "autos-usados-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 759,
@@ -15,25 +15,28 @@
     "timeWeek": 726,
     "timeMonth": 754,
     "timeYear": 759,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-14": 1
+    }
   },
   {
     "name": "Tattersall",
     "url": "https://autotattersall.cl/",
     "icon": "https://favicons.githubusercontent.com/autotattersall.cl",
     "slug": "tattersall",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "95.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.82%",
     "time": 1060,
-    "timeDay": 964,
+    "timeDay": 935,
     "timeWeek": 889,
     "timeMonth": 1030,
     "timeYear": 1060,
     "dailyMinutesDown": {
+      "2022-03-14": 0,
       "2022-03-13": 61,
       "2022-03-12": 28
     }
