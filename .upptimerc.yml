@@ -6,6 +6,8 @@ sites:
     url: http://www.autosusados.cl/
   - name: Tattersall
     url: https://autotattersall.cl/
+  - name: Auth Service
+    url: https://api.servicesdtk2.cl/v1/auth/_health
 
 
 status-website:
