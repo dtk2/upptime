@@ -4,6 +4,8 @@ repo: upptime
 sites:
   - name: AutosUsados Site
     url: http://www.autosusados.cl/
+  - name: AutosUsadoe Next
+    url: https://autosusados.web.app/
   - name: Tattersall
     url: https://autotattersall.cl/
   - name: Auth Service
