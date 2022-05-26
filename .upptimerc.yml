@@ -10,6 +10,8 @@ sites:
     url: https://autotattersall.cl/
   - name: Auth Service
     url: https://api.servicesdtk2.cl/v1/auth/_health
+  - name: SendMail Service
+    url: https://api.servicesdtk2.cl/v1/sendMail/_health
 
 
 status-website:
