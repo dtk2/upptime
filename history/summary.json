@@ -123,19 +123,19 @@
     "url": "https://api.servicesdtk2.cl/v1/cars/_health",
     "icon": "https://favicons.githubusercontent.com/api.servicesdtk2.cl",
     "slug": "cars-service",
-    "status": "down",
-    "uptime": "3.93%",
-    "uptimeDay": "3.93%",
-    "uptimeWeek": "3.93%",
-    "uptimeMonth": "3.93%",
-    "uptimeYear": "3.93%",
-    "time": 74,
-    "timeDay": 74,
-    "timeWeek": 74,
-    "timeMonth": 74,
-    "timeYear": 74,
+    "status": "up",
+    "uptime": "0.75%",
+    "uptimeDay": "0.75%",
+    "uptimeWeek": "0.75%",
+    "uptimeMonth": "0.75%",
+    "uptimeYear": "0.75%",
+    "time": 193,
+    "timeDay": 193,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 16
     }
   }
 ]
