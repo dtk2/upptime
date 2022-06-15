@@ -12,6 +12,8 @@ sites:
     url: https://api.servicesdtk2.cl/v1/auth/_health
   - name: SendMail Service
     url: https://api.servicesdtk2.cl/v1/sendMail/_health
+  - name: Cars Service
+    url: https://api.servicesdtk2.cl/v1/cars/_health
 
 
 status-website:
