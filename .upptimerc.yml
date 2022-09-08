@@ -14,6 +14,8 @@ sites:
     url: https://api.servicesdtk2.cl/v1/sendMail/_health
   - name: Cars Service
     url: https://api.servicesdtk2.cl/v1/cars/_health
+  - name: Autoadvice
+    url: https://autoadvice.cl
 
 
 status-website:
