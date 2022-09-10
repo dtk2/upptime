@@ -197,12 +197,12 @@
     "url": "https://autoadvice.cl",
     "icon": "https://favicons.githubusercontent.com/autoadvice.cl",
     "slug": "autoadvice",
-    "status": "up",
-    "uptime": "89.19%",
-    "uptimeDay": "78.19%",
-    "uptimeWeek": "89.19%",
-    "uptimeMonth": "89.19%",
-    "uptimeYear": "89.19%",
+    "status": "down",
+    "uptime": "89.60%",
+    "uptimeDay": "78.17%",
+    "uptimeWeek": "89.60%",
+    "uptimeMonth": "89.60%",
+    "uptimeYear": "89.60%",
     "time": 4231,
     "timeDay": 5033,
     "timeWeek": 4231,
@@ -219,18 +219,16 @@
     "icon": "https://favicons.githubusercontent.com/api-clientes.servicesdtk2.cl",
     "slug": "api-au",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 307,
     "timeDay": 274,
     "timeWeek": 307,
     "timeMonth": 307,
     "timeYear": 307,
-    "dailyMinutesDown": {
-      "2022-09-10": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
