@@ -1,7 +1,7 @@
 url: https://api-clientes.servicesdtk2.cl/
-status: up
-code: 200
-responseTime: 228
-lastUpdated: 2022-09-11T03:43:48.869Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-09-11T17:09:51.950Z
 startTime: Thu Sep 08 2022 16:00:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
