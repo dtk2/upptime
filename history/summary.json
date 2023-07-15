@@ -8,13 +8,13 @@
     "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.18%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "99.42%",
-    "time": 1745,
-    "timeDay": 596,
-    "timeWeek": 619,
-    "timeMonth": 3986,
-    "timeYear": 2049,
+    "time": 1743,
+    "timeDay": 579,
+    "timeWeek": 608,
+    "timeMonth": 3906,
+    "timeYear": 2048,
     "dailyMinutesDown": {
       "2023-06-28": 49,
       "2023-06-27": 47,
@@ -74,8 +74,7 @@
       "2022-08-11": 125,
       "2022-08-07": 42,
       "2022-08-04": 17,
-      "2022-07-25": 140,
-      "2022-07-15": 30
+      "2022-07-25": 140
     }
   },
   {
@@ -87,12 +86,12 @@
     "uptime": "98.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.46%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "98.11%",
-    "time": 2370,
-    "timeDay": 444,
-    "timeWeek": 528,
-    "timeMonth": 3135,
+    "time": 2367,
+    "timeDay": 534,
+    "timeWeek": 511,
+    "timeMonth": 2959,
     "timeYear": 2368,
     "dailyMinutesDown": {
       "2023-06-28": 36,
@@ -167,18 +166,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/autotattersall.cl.ico",
     "slug": "tattersall",
     "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "96.58%",
-    "uptimeMonth": "96.82%",
-    "uptimeYear": "98.78%",
+    "uptime": "99.10%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "96.85%",
+    "uptimeYear": "98.79%",
     "time": 2118,
-    "timeDay": 3925,
-    "timeWeek": 3648,
-    "timeMonth": 2202,
-    "timeYear": 2440,
+    "timeDay": 3935,
+    "timeWeek": 3781,
+    "timeMonth": 2196,
+    "timeYear": 2445,
     "dailyMinutesDown": {
-      "2023-07-14": 50,
+      "2023-07-14": 38,
       "2023-07-13": 49,
       "2023-07-12": 82,
       "2023-07-11": 36,
@@ -236,8 +235,7 @@
       "2022-08-04": 94,
       "2022-08-01": 499,
       "2022-07-24": 22,
-      "2022-07-18": 189,
-      "2022-07-15": 29
+      "2022-07-18": 189
     }
   },
   {
@@ -252,15 +250,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 457,
-    "timeDay": 188,
-    "timeWeek": 219,
-    "timeMonth": 371,
+    "timeDay": 244,
+    "timeWeek": 220,
+    "timeMonth": 218,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2022-09-02": 71,
       "2022-08-30": 364,
-      "2022-08-10": 15,
-      "2022-07-15": 28
+      "2022-08-10": 15
     }
   },
   {
@@ -269,16 +266,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.servicesdtk2.cl.ico",
     "slug": "send-mail-service",
     "status": "up",
-    "uptime": "90.31%",
+    "uptime": "90.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.02%",
-    "time": 454,
-    "timeDay": 4,
-    "timeWeek": 758,
-    "timeMonth": 986,
-    "timeYear": 502,
+    "time": 459,
+    "timeDay": 2749,
+    "timeWeek": 1142,
+    "timeMonth": 1023,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2023-04-20": 19,
       "2023-02-08": 876,
@@ -324,8 +321,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1269,
       "2022-09-14": 58,
-      "2022-08-30": 364,
-      "2022-07-15": 28
+      "2022-08-30": 364
     }
   },
   {
@@ -339,11 +335,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.74%",
-    "time": 510,
-    "timeDay": 76,
-    "timeWeek": 72,
-    "timeMonth": 81,
-    "timeYear": 542,
+    "time": 509,
+    "timeDay": 81,
+    "timeWeek": 75,
+    "timeMonth": 80,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2023-01-26": 167,
       "2022-11-08": 20,
@@ -368,8 +364,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 4,
-      "2022-08-30": 364,
-      "2022-07-15": 28
+      "2022-08-30": 364
     }
   },
   {
@@ -384,9 +379,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 400,
-    "timeDay": 283,
+    "timeDay": 288,
     "timeWeek": 264,
-    "timeMonth": 365,
+    "timeMonth": 367,
     "timeYear": 400,
     "dailyMinutesDown": {
       "2023-01-03": 28,
