@@ -1,7 +1,7 @@
 url: https://api.servicesdtk2.cl/v1/cars/_health
 status: up
 code: 200
-responseTime: 80
-lastUpdated: 2023-09-04T23:08:48.454Z
+responseTime: 73
+lastUpdated: 2023-09-05T23:09:02.276Z
 startTime: 2022-06-15T21:13:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
