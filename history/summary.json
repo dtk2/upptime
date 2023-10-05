@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.autosusados.cl.ico",
     "slug": "autos-usados-site",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.23%",
     "time": 1886,
-    "timeDay": 745,
-    "timeWeek": 854,
-    "timeMonth": 1177,
+    "timeDay": 1010,
+    "timeWeek": 847,
+    "timeMonth": 1169,
     "timeYear": 2038,
     "dailyMinutesDown": {
       "2023-09-20": 60,
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "98.60%",
-    "time": 2141,
-    "timeDay": 610,
-    "timeWeek": 577,
-    "timeMonth": 623,
-    "timeYear": 2105,
+    "time": 2136,
+    "timeDay": 474,
+    "timeWeek": 555,
+    "timeMonth": 619,
+    "timeYear": 2089,
     "dailyMinutesDown": {
       "2023-09-20": 60,
       "2023-08-25": 38,
@@ -131,8 +131,7 @@
       "2023-02-03": 78,
       "2023-02-01": 99,
       "2023-01-27": 82,
-      "2023-01-26": 178,
-      "2022-10-05": 81
+      "2023-01-26": 178
     }
   },
   {
@@ -142,17 +141,16 @@
     "slug": "tattersall",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.29%",
-    "time": 2071,
-    "timeDay": 1319,
-    "timeWeek": 1317,
-    "timeMonth": 1261,
-    "timeYear": 1865,
+    "time": 2070,
+    "timeDay": 1309,
+    "timeWeek": 1312,
+    "timeMonth": 1257,
+    "timeYear": 1866,
     "dailyMinutesDown": {
-      "2023-10-04": 13,
       "2023-10-02": 150,
       "2023-10-01": 4,
       "2023-09-29": 25,
@@ -205,8 +203,7 @@
       "2022-11-23": 56,
       "2022-11-04": 61,
       "2022-11-03": 62,
-      "2022-10-06": 24,
-      "2022-10-05": 34
+      "2022-10-06": 24
     }
   },
   {
@@ -221,8 +218,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 396,
-    "timeDay": 363,
-    "timeWeek": 235,
+    "timeDay": 212,
+    "timeWeek": 231,
     "timeMonth": 232,
     "timeYear": 322,
     "dailyMinutesDown": {}
@@ -233,16 +230,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.servicesdtk2.cl.ico",
     "slug": "send-mail-service",
     "status": "up",
-    "uptime": "91.91%",
+    "uptime": "91.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.99%",
+    "uptimeYear": "92.10%",
     "time": 537,
-    "timeDay": 2943,
-    "timeWeek": 1617,
+    "timeDay": 9,
+    "timeWeek": 1604,
     "timeMonth": 984,
-    "timeYear": 650,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2023-04-20": 19,
       "2023-02-08": 876,
@@ -274,8 +271,7 @@
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
-      "2022-10-06": 1440,
-      "2022-10-05": 1440
+      "2022-10-06": 1440
     }
   },
   {
@@ -288,12 +284,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.48%",
-    "time": 440,
-    "timeDay": 105,
-    "timeWeek": 92,
-    "timeMonth": 89,
-    "timeYear": 492,
+    "uptimeYear": "97.59%",
+    "time": 439,
+    "timeDay": 77,
+    "timeWeek": 87,
+    "timeMonth": 88,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2023-01-26": 167,
       "2022-11-08": 20,
@@ -304,8 +300,7 @@
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
-      "2022-10-06": 1440,
-      "2022-10-05": 1440
+      "2022-10-06": 1440
     }
   },
   {
@@ -320,9 +315,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 378,
-    "timeDay": 239,
-    "timeWeek": 292,
-    "timeMonth": 274,
+    "timeDay": 262,
+    "timeWeek": 274,
+    "timeMonth": 270,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2023-01-03": 28
