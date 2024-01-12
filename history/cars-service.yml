@@ -1,7 +1,7 @@
 url: https://api.servicesdtk2.cl/v1/cars/_health
 status: down
 code: 500
-responseTime: 18552
-lastUpdated: 2024-01-11T23:10:45.548Z
+responseTime: 18523
+lastUpdated: 2024-01-12T23:09:20.264Z
 startTime: 2022-06-15T21:13:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
