@@ -1,7 +1,7 @@
 url: http://www.autosusados.cl/
-status: up
-code: 200
-responseTime: 569
-lastUpdated: 2024-03-16T23:10:53.260Z
+status: down
+code: 502
+responseTime: 6351
+lastUpdated: 2024-03-17T06:48:05.270Z
 startTime: 2022-02-07T16:02:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
