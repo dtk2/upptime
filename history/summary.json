@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
     "time": 1445,
-    "timeDay": 1021,
-    "timeWeek": 980,
-    "timeMonth": 719,
-    "timeYear": 1409,
+    "timeDay": 655,
+    "timeWeek": 700,
+    "timeMonth": 721,
+    "timeYear": 1403,
     "dailyMinutesDown": {
       "2024-04-05": 20,
       "2024-03-25": 62,
@@ -40,8 +40,7 @@
       "2023-06-14": 82,
       "2023-06-13": 27,
       "2023-06-12": 20,
-      "2023-06-10": 20,
-      "2023-06-09": 98
+      "2023-06-10": 20
     }
   },
   {
@@ -55,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1285,
-    "timeDay": 480,
-    "timeWeek": 338,
-    "timeMonth": 336,
-    "timeYear": 1034,
+    "time": 1284,
+    "timeDay": 319,
+    "timeWeek": 341,
+    "timeMonth": 335,
+    "timeYear": 989,
     "dailyMinutesDown": {
       "2024-04-05": 20,
       "2024-03-25": 62,
@@ -80,8 +79,7 @@
       "2023-06-15": 33,
       "2023-06-14": 21,
       "2023-06-13": 19,
-      "2023-06-12": 21,
-      "2023-06-09": 115
+      "2023-06-12": 21
     }
   },
   {
@@ -90,18 +88,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/autotattersall.cl.ico",
     "slug": "tattersall",
     "status": "up",
-    "uptime": "96.33%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "96.33%",
+    "uptime": "96.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "96.35%",
     "time": 1754,
-    "timeDay": 2804,
-    "timeWeek": 1852,
-    "timeMonth": 1721,
-    "timeYear": 1720,
+    "timeDay": 2761,
+    "timeWeek": 1839,
+    "timeMonth": 1740,
+    "timeYear": 1718,
     "dailyMinutesDown": {
-      "2024-06-07": 13,
       "2024-06-01": 15,
       "2024-05-31": 22,
       "2024-05-29": 42,
@@ -183,7 +180,8 @@
       "2023-08-30": 47,
       "2023-08-29": 72,
       "2023-08-26": 18,
-      "2023-08-23": 30
+      "2023-08-23": 30,
+      "2023-08-20": 19
     }
   },
   {
@@ -197,10 +195,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 376,
-    "timeWeek": 244,
-    "timeMonth": 218,
+    "time": 244,
+    "timeDay": 108,
+    "timeWeek": 230,
+    "timeMonth": 217,
     "timeYear": 249,
     "dailyMinutesDown": {}
   },
@@ -216,10 +214,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 590,
-    "timeDay": 137,
-    "timeWeek": 849,
+    "timeDay": 7,
+    "timeWeek": 519,
     "timeMonth": 403,
-    "timeYear": 621,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2024-05-26": 33
     }
@@ -230,18 +228,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.servicesdtk2.cl.ico",
     "slug": "cars-service",
     "status": "down",
-    "uptime": "72.05%",
+    "uptime": "72.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.91%",
+    "uptimeYear": "49.78%",
     "time": 1077,
-    "timeDay": 396,
-    "timeWeek": 226,
-    "timeMonth": 173,
+    "timeDay": 146,
+    "timeWeek": 225,
+    "timeMonth": 172,
     "timeYear": 1332,
     "dailyMinutesDown": {
-      "2024-06-07": 819,
+      "2024-06-08": 56,
+      "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -441,10 +440,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 359,
-    "timeWeek": 287,
-    "timeMonth": 311,
-    "timeYear": 339,
+    "timeDay": 281,
+    "timeWeek": 304,
+    "timeMonth": 315,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   }
 ]
