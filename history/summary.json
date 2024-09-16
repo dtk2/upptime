@@ -60,17 +60,17 @@
     "url": "https://autotattersall.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/autotattersall.cl.ico",
     "slug": "tattersall",
-    "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "97.62%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "97.59%",
     "uptimeWeek": "98.24%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "98.73%",
-    "time": 1610,
-    "timeDay": 1124,
-    "timeWeek": 1242,
-    "timeMonth": 1342,
-    "timeYear": 1596,
+    "uptimeYear": "98.74%",
+    "time": 1609,
+    "timeDay": 1077,
+    "timeWeek": 1227,
+    "timeMonth": 1334,
+    "timeYear": 1595,
     "dailyMinutesDown": {
       "2024-09-16": 17,
       "2024-09-15": 68,
@@ -151,8 +151,7 @@
       "2023-11-27": 47,
       "2023-11-26": 87,
       "2023-11-25": 16,
-      "2023-11-21": 251,
-      "2023-11-19": 23
+      "2023-11-21": 251
     }
   },
   {
@@ -210,7 +209,7 @@
     "timeMonth": 732,
     "timeYear": 1423,
     "dailyMinutesDown": {
-      "2024-09-16": 584,
+      "2024-09-16": 626,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
