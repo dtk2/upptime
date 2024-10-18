@@ -4,8 +4,6 @@ repo: upptime
 sites:
   - name: AutosUsados Site
     url: http://www.autosusados.cl/
-  - name: AutosUsadoe Next
-    url: https://autosusados.web.app/
   - name: Tattersall
     url: https://autotattersall.cl/
   - name: Auth Service
@@ -16,6 +14,8 @@ sites:
     url: https://api.servicesdtk2.cl/v1/cars/_health
   - name: ApiAU
     url: https://api-clientes.servicesdtk2.cl/
+  - name: Salfa Rent
+    url: https://salfausados.cl/usados-rent-a-car/
 
 
 status-website:
