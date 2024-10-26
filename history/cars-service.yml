@@ -1,7 +1,7 @@
 url: https://api.servicesdtk2.cl/v1/cars/_health
 status: down
 code: 404
-responseTime: 242
-lastUpdated: 2024-10-25T23:13:14.674Z
+responseTime: 5
+lastUpdated: 2024-10-26T23:12:05.077Z
 startTime: 2022-06-15T21:13:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
