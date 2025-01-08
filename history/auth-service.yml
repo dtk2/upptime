@@ -1,7 +1,7 @@
 url: https://api.servicesdtk2.cl/v1/auth/_health
 status: up
 code: 200
-responseTime: 200
-lastUpdated: 2025-01-07T23:11:29.486Z
+responseTime: 186
+lastUpdated: 2025-01-08T23:11:42.790Z
 startTime: 2022-04-11T20:11:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
