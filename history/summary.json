@@ -4,9 +4,9 @@
     "url": "http://www.autosusados.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/www.autosusados.cl.ico",
     "slug": "autos-usados-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
@@ -16,6 +16,7 @@
     "timeMonth": 783,
     "timeYear": 929,
     "dailyMinutesDown": {
+      "2025-08-16": 0,
       "2025-07-14": 85,
       "2024-11-29": 451,
       "2024-10-27": 794,
@@ -95,7 +96,7 @@
     "timeMonth": 170,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-08-16": 78,
+      "2025-08-16": 991,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
