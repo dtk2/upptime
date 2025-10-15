@@ -10,8 +10,8 @@ sites:
     url: https://api.servicesdtk2.cl/v1/sendMail/_health
   - name: ApiAU
     url: https://api-clientes.servicesdtk2.cl/
-  - name: Salfa Rent
-    url: https://salfausados.cl/usados-rent-a-car/
+  #- name: Salfa Rent
+    #url: https://salfausados.cl/usados-rent-a-car/
 
 
 status-website:
