@@ -45,18 +45,19 @@
     "url": "https://api.servicesdtk2.cl/v1/sendMail/_health",
     "icon": "https://icons.duckduckgo.com/ip3/api.servicesdtk2.cl.ico",
     "slug": "send-mail-service",
-    "status": "up",
+    "status": "down",
     "uptime": "96.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
+    "time": 592,
     "timeDay": 3205,
     "timeWeek": 1346,
     "timeMonth": 790,
     "timeYear": 680,
     "dailyMinutesDown": {
+      "2025-10-31": 0,
       "2025-04-27": 17
     }
   },
