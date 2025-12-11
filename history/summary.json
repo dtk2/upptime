@@ -4,18 +4,19 @@
     "url": "http://www.autosusados.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/www.autosusados.cl.ico",
     "slug": "autos-usados-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 944,
-    "timeDay": 547,
-    "timeWeek": 884,
-    "timeMonth": 938,
-    "timeYear": 892,
+    "time": 943,
+    "timeDay": 439,
+    "timeWeek": 829,
+    "timeMonth": 920,
+    "timeYear": 890,
     "dailyMinutesDown": {
+      "2025-12-11": 0,
       "2025-10-15": 289,
       "2025-08-16": 19,
       "2025-07-14": 85
@@ -26,9 +27,9 @@
     "url": "https://api.servicesdtk2.cl/v1/auth/_health",
     "icon": "https://icons.duckduckgo.com/ip3/api.servicesdtk2.cl.ico",
     "slug": "auth-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +38,9 @@
     "timeWeek": 241,
     "timeMonth": 255,
     "timeYear": 246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-11": 0
+    }
   },
   {
     "name": "SendMail Service",
