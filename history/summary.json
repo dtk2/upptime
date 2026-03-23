@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 890,
-    "timeDay": 929,
-    "timeWeek": 835,
-    "timeMonth": 774,
+    "timeDay": 682,
+    "timeWeek": 828,
+    "timeMonth": 771,
     "timeYear": 894,
     "dailyMinutesDown": {
       "2025-12-11": 26,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 246,
-    "timeDay": 203,
-    "timeWeek": 218,
-    "timeMonth": 240,
+    "timeDay": 277,
+    "timeWeek": 224,
+    "timeMonth": 243,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2025-12-11": 26
@@ -48,15 +48,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.servicesdtk2.cl.ico",
     "slug": "send-mail-service",
     "status": "up",
-    "uptime": "97.12%",
+    "uptime": "97.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 662,
-    "timeDay": 2082,
-    "timeWeek": 646,
-    "timeMonth": 538,
+    "timeDay": 89,
+    "timeWeek": 658,
+    "timeMonth": 541,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2025-04-27": 17
@@ -74,10 +74,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 337,
-    "timeWeek": 254,
+    "timeDay": 275,
+    "timeWeek": 264,
     "timeMonth": 259,
-    "timeYear": 295,
+    "timeYear": 296,
     "dailyMinutesDown": {}
   }
 ]
