@@ -1,7 +1,7 @@
 url: https://api.servicesdtk2.cl/v1/sendMail/_health
 status: up
 code: 200
-responseTime: 65
-lastUpdated: 2026-06-27T23:56:32.163Z
+responseTime: 124
+lastUpdated: 2026-06-29T00:02:43.274Z
 startTime: 2022-05-26T18:22:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
